@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MinesweeperUI", "src\MinesweeperUI\MinesweeperUI.fsproj", "{DFD6F4A2-5ED3-4A1D-B359-0BA0914CFD2A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MinesweeperRules", "src\MinesweeperRules\MinesweeperRules.fsproj", "{DD37DD30-3EDD-4825-BE4A-51ED7192FA63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0E2DAA4A-5EEC-49F7-BF73-30E739EE7948}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD6F4A2-5ED3-4A1D-B359-0BA0914CFD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD6F4A2-5ED3-4A1D-B359-0BA0914CFD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD6F4A2-5ED3-4A1D-B359-0BA0914CFD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD6F4A2-5ED3-4A1D-B359-0BA0914CFD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD37DD30-3EDD-4825-BE4A-51ED7192FA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD37DD30-3EDD-4825-BE4A-51ED7192FA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD37DD30-3EDD-4825-BE4A-51ED7192FA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD37DD30-3EDD-4825-BE4A-51ED7192FA63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC29E736-B06C-402B-9AF2-647E33C305DE}
+	EndGlobalSection
+EndGlobal
